@@ -1,9 +1,11 @@
 # bnhassin.github.io
+bnhassin.github.io/index.html
 
 Bnhassin GitHub Page
-cd bnhassin.github.io
-
 
 "Hello World" 
 
-bnhassin.github.io/index.html
+
+
+
+

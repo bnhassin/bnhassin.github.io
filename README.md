@@ -1,5 +1,5 @@
 # bnhassin.github.io
 Bnhassin GitHub Page
 cd bnhassin.github.io
-
-echo "Hello World" > index.html
+"Hello World" > index.html
+bnhassin.github.io/index.html

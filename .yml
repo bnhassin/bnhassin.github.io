@@ -1,2 +1,4 @@
 git remote add origin https://github.com/bnhassin/bnhassin.github.io.git
 git push -u origin master
+ notifications:
+    slack: librariesio:JOIa3Eg56FXVdYmcdNOp0gqH

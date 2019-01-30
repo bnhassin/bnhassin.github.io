@@ -1,2 +1,4 @@
 [gitiles]
   allowOriginRegex = http://localhost
+[markdown]
+  allowiframe = https://google.com/

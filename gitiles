@@ -2,3 +2,4 @@
   allowOriginRegex = http://localhost
 [markdown]
   allowiframe = https://google.com/
+git push origin HEAD:refs/for/master

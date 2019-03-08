@@ -6,3 +6,5 @@ git push origin HEAD:refs/for/master
 git clone https://gerrit.googlesource.com/gerrit && (cd gerrit && f=`git rev-parse --git-dir`/hooks/commit-msg ; curl -Lo $f https://gerrit-review.googlesource.com/tools/hooks/commit-msg ; chmod +x $f)
 git clone https://gerrit.googlesource.com/gerrit
 git push origin HEAD:refs/for/refs/meta/config
+mkdir WORKING_DIRECTORY
+cd WORKING_DIRECTORY

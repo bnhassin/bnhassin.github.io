@@ -1,0 +1,90 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    
+    
+
+<html lang="fr-FR">
+<head><title>
+	
+            Azure DevOps Services | Se connecter
+        
+</title><meta http-equiv="X-UA-Compatible" content="IE=11;&#32;IE=10;&#32;IE=9;&#32;IE=8" />
+    <link rel="SHORTCUT ICON" href="/favicon.ico"/>
+
+    <link data-bundlelength="508485" data-bundlename="commoncss" data-highcontrast="/_static/tfs/M155_20190715.20/_cssbundles/HighContrast/vss-bundle-commoncss-vAEI_yKFIiS9jTVmCtAOiwe4cLPqdXnp6QCUVseU7jzk=" data-includedstyles="jQueryUI-Modified;Core;Splitter;PivotView" href="/_static/tfs/M155_20190715.20/_cssbundles/Default/vss-bundle-commoncss-vqjKBNZxfVQkGGn0rrvF7eh9DJDj__wqtFN85fVrIQn8=" rel="stylesheet" />
+<link data-bundlelength="116162" data-bundlename="viewcss" data-highcontrast="/_static/tfs/M155_20190715.20/_cssbundles/HighContrast/vss-bundle-viewcss-v356iHjTFccxhkNidRJIEefQ92VqpWpa7rO4mdtAnDpM=" data-includedstyles="VSS.Controls" href="/_static/tfs/M155_20190715.20/_cssbundles/Default/vss-bundle-viewcss-vXHgBtK2hntEJYzWnMNhcJkJC-nUhp2m3BtF-jVlzOZA=" rel="stylesheet" />
+
+    <!--UxServices customizations -->
+    
+    <link href="/_static/tfs/M155_20190715.20/_content/Authentication.css" type="text/css" rel="stylesheet" />
+    
+</head>
+
+<body class="platform">
+
+    <script type="text/javascript"> var __vssPageContext = {"webContext":{"user":{"id":"aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa","name":"Anonymous","email":"","uniqueName":"TEAM FOUNDATION\\Anonymous"},"host":{"id":"c12971e3-aa76-494f-a773-caba175b0dab","name":"TEAM FOUNDATION","uri":"https://spsprodweu2.vssps.visualstudio.com/","relativeUri":"/","hostType":"deployment","scheme":"https","authority":"spsprodweu2.vssps.visualstudio.com"}},"moduleLoaderConfig":{"baseUrl":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/","paths":{"Profile/Scripts/Resources":"fr-FR","UserManagement/Scripts/Resources":"fr-FR","VSS/Resources":"fr-FR","Account/Scripts/Resources":"fr-FR","Authentication/Scripts/Resources":"fr-FR"},"map":{},"contributionPaths":{"VSS":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/VSS","pathType":"default"},"VSS/Resources":{"value":"fr-FR","pathType":"resource"},"q":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/q","pathType":"default"},"knockout":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/knockout","pathType":"default"},"mousetrap":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/mousetrap","pathType":"default"},"mustache":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/mustache","pathType":"default"},"react":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/react.15.3","pathType":"default"},"react-dom":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/react-dom.15.3","pathType":"default"},"react-transition-group":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/react-transition-group.15.3","pathType":"default"},"jQueryUI":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/jQueryUI","pathType":"default"},"jquery":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/jquery","pathType":"default"},"OfficeFabric":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/OfficeFabric","pathType":"default"},"tslib":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/tslib","pathType":"default"},"@uifabric":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/@uifabric","pathType":"default"},"VSSUI":{"value":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/VSSUI","pathType":"default"}},"shim":{"jquery":{"deps":[],"exports":"jQuery"}},"waitSeconds":30},"coreReferences":{"stylesheets":[{"url":"/_static/tfs/M155_20190715.20/_cssbundles/Default/vss-bundle-ext-core-css-vsCBNoExa0hAWjYBt_7B4wxFEmXyUVw-YPzT6aCvdhG8=","highContrastUrl":null,"isCoreStylesheet":true}],"scripts":[{"identifier":"JQuery","url":"/_static/3rdParty/_scripts/jquery-2.2.4.min.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},{"identifier":"JQueryXDomain","url":"/_static/3rdParty/_scripts/jquery.xdomainrequest.min.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},{"identifier":"Promise","url":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/promise.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},{"identifier":"GlobalScripts","url":"/_static/tfs/M155_20190715.20/_scripts/TFS/min/global-scripts.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},{"identifier":"LoaderFixes","url":"/_static/tfs/M155_20190715.20/_scripts/TFS/pre-loader-shim.min.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":false},{"identifier":"AMDLoader","url":"/_static/3rdParty/_scripts/require.min.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},{"identifier":"LoaderFixes","url":"/_static/tfs/M155_20190715.20/_scripts/TFS/post-loader-shim.min.js","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":false}],"coreScriptsBundle":{"identifier":"CoreBundle","url":"/_public/_Bundling/Content?bundle=vss-bundle-basejs-vwCtrJpcLWiIeuyIlqmSJGfIBPaSLZgklw3ecEhDqrpw=","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true},"extensionCoreReferences":{"identifier":"CoreBundle","url":"/_public/_Bundling/Content?bundle=vss-bundle-ext-core-vY_2nznYWOwJihxedCsWuVCTPaGS_j6G4HtzFf9lE4jQ=","fallbackUrl":null,"fallbackCondition":null,"isCoreModule":true}},"webAccessConfiguration":{"isHosted":true,"paths":{"rootPath":"/","staticContentRootPath":"/","staticContentVersion":"M155_20190715.20","resourcesPath":"/_static/tfs/M155_20190715.20/_content/","staticRootTfs":"/_static/tfs/M155_20190715.20/","cdnFallbackStaticRootTfs":"/_static/tfs/M155_20190715.20/","staticRoot3rdParty":"/_static/3rdParty/"},"api":{"webApiVersion":"1","areaPrefix":"_","controllerPrefix":""},"mailSettings":{"enabled":false}},"microsoftAjaxConfig":{"cultureInfo":{"name":"fr-FR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"0001-01-01T00:00:00","MaxSupportedDateTime":"9999-12-31T23:59:59.9999999","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH':'mm':'ss 'GMT'","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy'-'MM'-'dd'T'HH':'mm':'ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy'-'MM'-'dd HH':'mm':'ss'Z'","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dim.","lun.","mar.","mer.","jeu.","ven.","sam."],"ShortestDayNames":["di","lu","ma","me","je","ve","sa"],"DayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"AbbreviatedMonthNames":["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc.",""],"MonthNames":["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre",""],"IsReadOnly":true,"NativeCalendarName":"calendrier grégorien","AbbreviatedMonthGenitiveNames":["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc.",""],"MonthGenitiveNames":["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre",""]},"numberShortForm":{"QuantitySymbols":[" k"," M"," Md"],"NumberGroupSize":1000,"ThousandSymbol":" k"},"eras":null}},"timeZonesConfiguration":{},"featureAvailability":{"featureStates":{"VisualStudio.Services.Contribution.EnableOnPremUnsecureBrowsers":false,"VisualStudio.Service.WebPlatform.ClientErrorReporting":false,"Microsoft.VisualStudio.Services.Gallery.Client.UseCdnAssetUri":false,"VisualStudio.Services.WebAccess.SubresourceIntegrity":false,"VisualStudio.Services.IdentityPicker.ReactProfileCard":true,"VisualStudio.Services.WebPlatform.ExternalHubBackwardsNavigation":false}},"appInsightsConfiguration":{"enabled":false,"instrumentationKey":"00000000-0000-0000-0000-000000000000","insightsScriptUrl":null},"diagnostics":{"sessionId":"e4fb6193-d704-4f37-9d98-d47afbc3afcb","activityId":"e4fb6193-d704-4f37-9d98-d47afbc3afcb","bundlingEnabled":true,"webPlatformVersion":"M155","serviceVersion":"Dev17.M155.1 (build: AzureDevOps_M155_20190715.20)"},"navigation":{"topMostLevel":"deployment","area":"","currentController":"Signin","currentAction":"Index","routeId":"LegacyWebAccessRoute","routeValues":{"controller":"Signin","action":"Index"}},"globalization":{"explicitTheme":"","theme":"Default","culture":"fr-FR","timezoneOffset":0,"timeZoneId":"UTC"},"serviceInstanceId":"951917ac-a960-4999-8464-e3f0aa25b381","hubsContext":{},"serviceLocations":{"locations":{"951917ac-a960-4999-8464-e3f0aa25b381":{"Application":"https://spsprodweu2.vssps.visualstudio.com/","Deployment":"https://spsprodweu2.vssps.visualstudio.com/"}}}};</script><script type="text/javascript"> var __cultureInfo = __vssPageContext.microsoftAjaxConfig.cultureInfo;</script>
+<script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("startLoadBundleOuter-basejs"); }</script>
+<script data-bundlelength="123141" data-bundlename="basejs" src="/_public/_Bundling/Content?bundle=vss-bundle-basejs-vwCtrJpcLWiIeuyIlqmSJGfIBPaSLZgklw3ecEhDqrpw=" type="text/javascript"></script>
+<script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("endLoadBundleOuter-basejs"); }</script>
+
+
+<script type="text/javascript"> require.config(__vssPageContext.moduleLoaderConfig);</script>
+
+    <input name="__RequestVerificationToken" type="hidden" value="9mdUiRqZk3U5ZUZOwKHRfp48oudnWxt2CVvqonjCkbRBeggj1fmJE-YqTEVjY4w0E68Hw483hfuxJGwE_02weqMQiU01" /><input name="__RequestVerificationToken2" type="hidden" value="__RequestVerificationToken21050a7e0-2197-4f14-ab1c-538a64eb2cb0" />
+    
+    
+
+
+    
+    
+    <div class="account signin main-container hide">
+
+
+            <div class="page-content">
+                <div class="header-section" role="banner">
+                    
+                    
+                </div>
+                <div class="content-section" role="main">
+                    
+    
+            <div class="signin-main-content">
+                <noscript>
+                    <span class="error">La configuration de sécurité renforcée de Microsoft Internet Explorer est activée dans votre environnement. Ce niveau de sécurité renforcé empêche nos expériences utilisateur d&#39;intégration web de s&#39;afficher ou de fonctionner correctement. Pour continuer l&#39;opération, "d"ésactivez cette configuration ou contactez votre administrateur.</span>
+                </noscript>
+                <div class="provider-control">                    
+                    <script class="options" defer="defer" type="application/json">{"providerOptions":{"force":false,"orgIdAuthUrl":"https://login.microsoftonline.com/common/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798\u0026site_id=501454\u0026response_mode=form_post\u0026response_type=code+id_token\u0026redirect_uri=https%3A%2F%2Fspsprodweu2.vssps.visualstudio.com%2F_signedin\u0026nonce=b3a0277c-77c9-413f-8f80-9551f8a684ec\u0026state=realm%3Ddev.azure.com%26reply_to%3Dhttps%253A%252F%252Fdev.azure.com%252Fbnhassin%252FGit%252F_build%253FdefinitionId%253D2%2526_a%253Dsummary%26ht%3D2%26newurl_replyto%3Dhttps%253A%252F%252Fdev.azure.com%252Fbnhassin%252FGit%252F_build%253FdefinitionId%253D2%2526_a%253Dsummary%26hid%3Da0c00d08-1e43-4746-86f7-4dc657f5e672%26nonce%3Db3a0277c-77c9-413f-8f80-9551f8a684ec\u0026resource=https%3A%2F%2Fmanagement.core.windows.net%2F\u0026cid=b3a0277c-77c9-413f-8f80-9551f8a684ec\u0026wsucxt=1\u0026githubsi=true\u0026msaoauth2=true","user":null,"signInContext":"eyJodCI6MiwiaGlkIjoiMmZjMGYxOTktYTYwNi00ODQyLTg5MDAtOThkMDFhZDllNTVmIiwicXMiOnsicmVhbG0iOiJkZXYuYXp1cmUuY29tIiwicmVwbHlfdG8iOiJodHRwczovL2Rldi5henVyZS5jb20vYm5oYXNzaW4vR2l0L19idWlsZD9kZWZpbml0aW9uSWQ9MiZfYT1zdW1tYXJ5IiwiaHQiOiIyIiwibmV3dXJsX3JlcGx5dG8iOiJodHRwczovL2Rldi5henVyZS5jb20vYm5oYXNzaW4vR2l0L19idWlsZD9kZWZpbml0aW9uSWQ9MiZfYT1zdW1tYXJ5IiwiaGlkIjoiYTBjMDBkMDgtMWU0My00NzQ2LTg2ZjctNGRjNjU3ZjVlNjcyIiwibm9uY2UiOiJiM2EwMjc3Yy03N2M5LTQxM2YtOGY4MC05NTUxZjhhNjg0ZWMifSwicnIiOiIiLCJ2aCI6IiIsImN2IjoiIiwiY3MiOiIifQ2"}}</script>
+                </div>
+            </div>
+
+
+                </div>
+                 
+                     <div>
+                          
+                     </div>
+                 
+            </div>
+            
+    
+    </div>
+
+
+    
+    
+
+    <script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("startLoadBundleOuter-common"); }</script>
+<script data-bundlelength="209044" data-bundlename="common" data-includedscripts="VSS/Bundling" src="/_public/_Bundling/Content?bundle=vss-bundle-common-vZtL1N5TakV3B0oc3TlMao4mfMezhW0FJm30FtUaHb-c=" type="text/javascript"></script>
+<script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("endLoadBundleOuter-common"); }</script>
+<script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("startLoadBundleOuter-view"); }</script>
+<script data-bundlelength="167984" data-bundlename="view" data-includedscripts="Authentication/Scripts/SPS.Authentication.Controls;Authentication/Scripts/SPS.Authentication" src="/_public/_Bundling/Content?bundle=vss-bundle-view-vvh6ltmCve0-AwN4GV0T8n0-HxIU13EbPTvARf4NwqsU=" type="text/javascript"></script>
+<script type="text/javascript">if (window.performance && window.performance.mark) { "window".performance.mark("endLoadBundleOuter-view"); }</script>
+
+<script type="text/javascript"> if (window.performance && window.performance.mark) { "window".performance.mark("requireStart"); }
+require(["Authentication/Scripts/SPS.Authentication.Controls","Authentication/Scripts/SPS.Authentication"], "function"(){  "if" (window.performance && window.performance.mark) { "window".performance.mark("requireEnd"); } window.requiredModulesLoaded=true;  });
+</script>
+
+</body>
+</html>

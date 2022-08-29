@@ -1,0 +1,11 @@
+$ snapcraft
+Using 'snap/snapcraft.yaml': Project assets will be searched for from the 'snap' directory.
+Launching a VM.
+Launched: snapcraft-my-snap-name
+[...]
+Pulling my-part
+Building my-part
+Staging my-part
+Priming my-part
+Snapping 'my-snap-name' |
+Snapped my-snap-name_0.1_amd64.snap
